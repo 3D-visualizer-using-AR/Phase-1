@@ -1,2 +1,2 @@
 # 3D viusalizer of Graphical Shapes using AR
-This is the report of Major project phase 1
+It contains the report of Major project phase 1
